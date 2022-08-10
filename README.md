@@ -27,7 +27,9 @@ Beta testers love the PlanMyTrip app and recommend adding the weather descriptio
 The full Jupyter Notebook for this deliverable can be referenced here: 
 https://github.com/lkachury/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb
 
-The purpose of this deliverable was to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city using the citipy module, and perform an API call with the OpenWeatherMap. Then, retrieve the following information from the API call [Latitude and longitude, maximum temperature, percent humidity, percent cloudiness, wind speed, and weather description (for example, clouds, fog, light rain, clear sky)] for each city. And lastly, create a new DataFrame containing the updated weather data and export it as a CSV file. The table below is the DataFrame created using the OpenWeatherMap API:
+The purpose of this deliverable was to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city using the citipy module, and perform an API call with the OpenWeatherMap. Then, retrieve the following information from the API call [Latitude and longitude, maximum temperature, percent humidity, percent cloudiness, wind speed, and weather description (for example, clouds, fog, light rain, clear sky)] for each city. And lastly, create a new DataFrame containing the updated weather data and export it as a CSV file. 
+
+The table below is the DataFrame created using the OpenWeatherMap API:
 
 ![image](https://user-images.githubusercontent.com/108038989/183809219-a2071682-ea4f-4809-835a-a68c4b8683f2.png)
 
