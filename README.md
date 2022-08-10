@@ -36,15 +36,20 @@ The purpose of this deliverable was to generate a set of 2,000 random latitudes 
 The full Jupyter Notebook for this deliverable can be referenced here:
 https://github.com/lkachury/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb
 
-The purpose of this deliverable is to use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers. The image below displays potential travel destinations and nearby hotels by using the Google Maps API:
+The purpose of this deliverable is to use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers. 
+
+The image below displays potential travel destinations and nearby hotels by using the Google Maps API:
 
 ![image](https://user-images.githubusercontent.com/108038989/183809108-dc767a4b-1360-4e28-9ca3-f8ff3d9cbc5c.png)
 
 ### Deliverable 3: Create a Travel Itinerary Map
 
-The full Jupyter Notebook can be referenced here: https://github.com/lkachury/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb
+The full Jupyter Notebook can be referenced here: 
+https://github.com/lkachury/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb
 
-The purpose of this deliverable was to use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary. The images below display the driving travel route vacation itinerary and city description for four cities in Indonesia by using the Google Directions API: 
+The purpose of this deliverable was to use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary. 
+
+The images below display the driving travel route vacation itinerary and city description for four cities in Indonesia by using the Google Directions API: 
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/108038989/183820401-034a0ba6-0427-4d3a-af7a-09772c1adedd.png)
 
