@@ -2,7 +2,7 @@
 
 ## Overview
 
-Beta testers love the PlanMyTrip app and recommend adding the weather description to the weather data previously retrieved. The purpose of this analysis is to update the app to allow the beta testers to use input statements to filter the data for their weather preferences, which will identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
+Beta testers love the PlanMyTrip app and recommend adding the weather description to the weather data previously retrieved. The purpose of this analysis is to update the app to allow the beta testers to use input statements to filter the data for their weather preferences, which will identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will be able to choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route between the four cities and a marker layer map will be created.
 
 ## Resources
 ### Software
