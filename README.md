@@ -27,7 +27,4 @@ https://github.com/lkachury/World_Weather_Analysis/blob/main/Vacation_Itinerary/
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/108038989/183820401-034a0ba6-0427-4d3a-af7a-09772c1adedd.png)
 
-
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/108038989/183820415-6141f38d-d1bc-4a8d-a6cd-d4bd28473ac8.png)
-
-
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/108038989/183820838-a296ce27-01e6-474b-888f-ffb3727d4acb.png)
