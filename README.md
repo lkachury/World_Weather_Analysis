@@ -14,9 +14,21 @@ https://github.com/lkachury/World_Weather_Analysis/blob/main/Weather_Database/We
 
 Deliverable 2: Create a Customer Travel Destinations Map
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
+
 https://github.com/lkachury/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb
 
 ![image](https://user-images.githubusercontent.com/108038989/183809108-dc767a4b-1360-4e28-9ca3-f8ff3d9cbc5c.png)
 
 Deliverable 3: Create a Travel Itinerary Map
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
+
+https://github.com/lkachury/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb
+
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/108038989/183820401-034a0ba6-0427-4d3a-af7a-09772c1adedd.png)
+
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/108038989/183820993-3ac05e65-dbf8-400a-86f8-24f05a859720.png)
+
+
+
